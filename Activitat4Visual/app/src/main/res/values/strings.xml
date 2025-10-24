@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IBM Calculator</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="titol_app">IBM Calculator</string>
+    <string name="height">Hight</string>
+    <string name="height_sample">170 cm</string>
+    <string name="weight">Weight</string>
+    <string name="weight_sample">60</string>
+    <string name="age">Age</string>
+    <string name="age_sample">25</string>
+    <string name="calculate_btn">CALCULATE YOUR BMI</string>
+    <string name="back">Back</string>
+    <string name="bmi_results_titol">BMI RESULTS</string>
+    <string name="user_bmi">Your BMI: 0.0</string>
+    <string name="bmi_results">Normal</string>
+    <string name="recalculate_btn">RECALCULATE</string>
+</resources>
